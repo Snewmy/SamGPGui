@@ -1,0 +1,11 @@
+name: SamGPGui
+version: 1.0
+main: me.Sam.GPGui.GPGui
+api-version: 1.18
+description: Sams grief prevention flags gui plugin
+depend:
+  - GriefPrevention
+  - GriefPreventionFlags
+commands:
+  claimflags:
+    aliases: [claimflag, flag, flags]
